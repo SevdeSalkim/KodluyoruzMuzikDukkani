@@ -1,0 +1,40 @@
+body{
+    background-color: #D8D9DA;
+}
+.nav-list{
+    display: inline-block;
+    text-align: center;
+}
+
+
+#img_nav{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.nav-list a {
+    display: block;
+    color: #272829;
+    padding: 16px;
+    text-decoration: none;
+}
+.populer_urunler li{
+    list-style-position: inside;
+    text-align: center;
+
+}
+
+.urun_list li{
+    list-style-position: inside;
+    text-align: center;
+    padding: 10px ;
+    
+}
+footer{
+    background-color: #61677a; 
+    color: whitesmoke;
+    text-align: center;
+    padding: 15px 15px;
+     
+}
