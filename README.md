@@ -1,6 +1,6 @@
 # KodluyoruzMuzikDukkani
 
-Bu projemde kodluyoruz eğitimlerinde bu zamana kadar öğrendiğim HTML etiketlerine CSS ekleyerek genel bir web görünüm kazandırdım.
+Bu projemde kodluyoruz eğitimlerinde bu zamana kadar öğrendiğim HTML ve CSS bilgilerini kullanarak Static bie web sayfası yaptım.
 
 ## Web Sitemin Ana Sayfa Görünümü
 
