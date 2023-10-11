@@ -1,6 +1,6 @@
 # KodluyoruzMuzikDukkani
 
-Bu projemde kodluyoruz eğitimlerinde bu zamana kadar öğrendiğim HTML ve CSS bilgilerini kullanarak Static bie web sayfası yaptım.
+Bu projemde kodluyoruz eğitimlerinde bu zamana kadar öğrendiğim HTML ve CSS bilgilerini kullanarak Static bir web sayfası yaptım.
 
 ## Web Sitemin Ana Sayfa Görünümü
 
